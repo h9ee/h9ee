@@ -61,7 +61,7 @@ I always design systems with strong security principles in mind:
 
 ## 📌 Featured Projects
 - **E-commerce Platform** (Next.js + Node.js + SQL)  
-- **Enterprise Microservices System** (User, File, Project, Sale Services)  
+- **Enterprise Microservices System** 
 - **SEO-Focused Product Website** (Next.js)  
 - **Contract Management Workflow System**
 
