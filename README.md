@@ -32,9 +32,9 @@ I always design systems with strong security principles in mind:
 ## ⚡ Technical Skills
 
 ### 🧩 Frontend
-- React.js / Next.js 14  
-- Zustand, SWR, Axios  
-- TailwindCSS, ShadCN UI  
+- React.js / Next.js   
+- Zustand, SWR, Axios, ...  
+- TailwindCSS, ShadCN UI, MUI, ...  
 - SSR / ISR / SSG, SEO Optimization  
 - Performance & UX Optimization  
 
@@ -62,7 +62,6 @@ I always design systems with strong security principles in mind:
 ## 📌 Featured Projects
 - **E-commerce Platform** (Next.js + Node.js + SQL)  
 - **Enterprise Microservices System** (User, File, Project, Sale Services)  
-- **Trading Bot** (Node.js + MySQL + Exchange APIs)  
 - **SEO-Focused Product Website** (Next.js)  
 - **Contract Management Workflow System**
 
@@ -79,6 +78,5 @@ I always design systems with strong security principles in mind:
 ## 📫 Contact
 - Email: **hossrin02015@email.com**  
 - Telegram: **@h9ee22**  
-
 ---
 
