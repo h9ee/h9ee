@@ -77,10 +77,8 @@ I always design systems with strong security principles in mind:
 ---
 
 ## 📫 Contact
-- Email: **your@email.com**  
-- Telegram: **@your_username**  
-- Website / Portfolio: (send me if you want it added)
+- Email: **hossrin02015@email.com**  
+- Telegram: **@h9ee22**  
 
 ---
 
-## ⭐ If you find my work useful, feel free to give a Star!
