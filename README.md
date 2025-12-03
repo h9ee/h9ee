@@ -20,7 +20,7 @@ I always design systems with strong security principles in mind:
 ---
 
 ## 👨‍💻 About Me
-- 7+ years of professional experience in software development  
+- 8+ years of professional experience in software development  
 - Strong background in **Frontend (React, Next.js)** and **Backend (Node.js, Express)**  
 - Solid experience with SQL Server, MySQL, Sequelize, Prisma  
 - Passionate about **Microservices**, **Event-Driven Architecture**, **Docker**, **System Design**, and **Security**  
