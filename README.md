@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Hossein Noei
-### 🚀 Senior Full-Stack Developer | React.js, Next.js, Node.js, TypeScript  
+### 🚀 Full-Stack Developer | React.js, Next.js, Node.js, TypeScript  
 ### 🛡️ Security-Oriented Engineer | Microservices | DevOps Enthusiast
 
 ---
@@ -47,7 +47,8 @@ I always design systems with strong security principles in mind:
 
 ### 🗄️ Databases
 - SQL Server  
-- MySQL  
+- MySQL
+- Mongo
 - Sequelize / Prisma  
 - Query Optimization, Indexing  
 
